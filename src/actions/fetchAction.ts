@@ -1,0 +1,1 @@
+export const Fetch = ({ type: "USER_FETCH_SUCCEEDED"})
